@@ -2,6 +2,15 @@
 
 ..thats mean: hello-world.
 
-when I can, I will delete it some other ver.
+I will delete it some other ver.
 
 3rd time change, sthg about language & Sci-fi, what I erased
+
+4th time repeat the steps
+mk branch
+pen
+do the change, erase write, ..edit
+update note, optional extended description
+commit change..buttom?
+pull request a new one
+merge or sthg..
